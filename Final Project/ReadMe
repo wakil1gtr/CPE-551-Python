@@ -1,1 +1,18 @@
-# Code here
+Hello Everyone
+Here is my Final Project for my CPE 551 Python Course at Stevens Institute of Technology
+
+Youtube Video Showcase Link: https://youtu.be/M7ioJpE0f5Y
+
+Project Description:
+From python code I would like to make a game. It will have the following requirements:
+As you know the snake game where the snake gets bigger as you eat the apple. My game is like that but in reverse. 
+Essentially there will be three choices for the users at the home screen Easy, Medium, Hard.
+- Easy level: Snake is 15 ft long and will get 1 ft smaller when the snake eats an apple. 
+- Medium level: Snake is 25 ft long and will get 1 ft smaller when the snake eats an apple.
+- Hard level: Snake is 35 ft long and will get 1 ft smaller when the snake eats an apple.
+I will have the snake's length size shown in the upper right corner of the screen and have it be updated to the snakes new length. 
+As it eats an apple and when the snake is out of length it will say "You Won Congrats!" 
+If the snake hits the wall it is game over for player and if the snake crashes into itself it is also game over.
+Whenever the player loses, a Game Over You Lost screen will appear and users will have the choice to play again.
+User will also have the choice to play again even if they have won. 
+
